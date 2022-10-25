@@ -1,10 +1,8 @@
-
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name - Hello-Microverse
 
-My first Microverse repository on GitHub
+**My first Microverse repository on GitHub**
 
 ## Built With
 
