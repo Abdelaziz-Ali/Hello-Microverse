@@ -23,3 +23,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+###a file should be ignored by git###
+test.md
